@@ -13,3 +13,10 @@ h1{
 p{
 	font-size: 20px
 }
+.framed { 
+	border: solid 3px red;
+    padding: 6px;
+}
+.pink { background-color: pink; }
+.blue { background-color: blue; }
+.green { background-color: green; }
